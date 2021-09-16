@@ -1,0 +1,257 @@
+[
+  {
+    "id": "QA00NO0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 44,
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "QA0NO20001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 151,
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "QA00O30001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 157,
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "QAPM250001",
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "value": 10,
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "QAPM100001",
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "value": 27,
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "QA0SO20001",
+    "date": "202105120000",
+    "dateStandard": "UTC",
+    "value": -99,
+    "unit": "μg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "QA00CO0001",
+    "date": "202105121600",
+    "dateStandard": "UTC",
+    "value": -99,
+    "unit": "mg/m3",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "RULAEQ0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 53,
+    "unit": "dB(A)",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "ME00PA0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 1018,
+    "unit": "Mbar",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "ME00HR0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 55.8,
+    "unit": "%",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "METEMP0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 18.9,
+    "unit": "ºC",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "ME00VI0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": -100,
+    "unit": "km/h",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "ME00VD0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": -97,
+    "unit": "º",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+  {
+    "id": "ME00PP0001",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": -98,
+    "unit": "mm",
+    "address": "Calçada da Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+ {
+    "id": "QA0NO20002",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": -98,
+    "unit": "μg/m3",
+    "address": "Paredes",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+ {
+    "id": "QA0NO20003",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 90,
+    "unit": "μg/m3",
+    "address": "Calçada",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  },
+ {
+    "id": "QA0NO20004",
+    "date": "202105121800",
+    "dateStandard": "UTC",
+    "value": 60,
+    "unit": "μg/m3",
+    "address": "Ajuda",
+    "coordinates": {
+      "x": -92781,
+      "y": -106663,
+      "z": 0,
+      "lat": 38.70263097,
+      "lng": -9.199692206
+    }
+  }
+]
